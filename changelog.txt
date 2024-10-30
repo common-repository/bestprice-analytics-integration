@@ -1,0 +1,53 @@
+*** Changelog ***
+= 1.1.3 - 22/03/2024 =
+
+* Compatibility with php 8.2
+* Added currency and Payment method in order's information
+
+= 1.1.2 - 22/09/2023 =
+
+* Rename BestPrice 360º plugin and compatibility with HPOS
+
+= 1.1.0 - 20/08/2021 =
+
+* Show BestPrice Product Badge above cart
+
+= 1.0.9 - 30/07/2021 =
+
+* Added BestPrice Product Badge support 
+
+= 1.0.8 - 02/03/2021 =
+
+* Changed default Feed Id to Product_Id
+
+= 1.0.7 - 27/01/2021 =
+
+* Tested up to Wordpress 5.6 and WooCommerce 4.9.1
+
+= 1.0.6 - 02/09/2020 =
+
+* Changed default Feed Id to Product_SKU
+
+= 1.0.5 - 05/05/2020 =
+
+* Typo
+
+= 1.0.4 - 16/03/2020 =
+
+* Minor bug fix
+
+= 1.0.3 - 05/03/2020 =
+
+* Greek language fix
+
+= 1.0.2 - 21/01/2020 =
+
+* Minor bug
+
+= 1.0.1 - 27/12/2019 =
+
+* Tracking code fix
+
+= 1.0.0 - 14/11/2019 =
+
+* Initial release

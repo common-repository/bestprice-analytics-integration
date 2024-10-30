@@ -1,0 +1,100 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bestprice Analytics Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-14 12:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: includes/class-wc-bestprice-analytics-info-banner.php:62
+msgid "(Dismiss)"
+msgstr ""
+
+#: includes/class-wc-bestprice-analytics-info-banner.php:58
+#, php-format
+msgid ""
+"<a href=\"%s\">Connect WooCommerce to Bestprice Analytics</a> to finish "
+"setting up this integration."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allows Bestprice Analytics tracking code to be inserted into WooCommerce "
+"store pages."
+msgstr ""
+
+#. Author of the plugin
+msgid "BestPrice"
+msgstr ""
+
+#: includes/class-wc-bestprice-analytics.php:23
+msgid "Bestprice Analytics"
+msgstr ""
+
+#: includes/class-wc-bestprice-analytics-info-banner.php:57
+msgid "Bestprice Analytics &amp; WooCommerce"
+msgstr ""
+
+#: includes/class-wc-bestprice-analytics.php:75
+msgid "Bestprice Analytics ID"
+msgstr ""
+
+#: includes/class-wc-bestprice-analytics.php:24
+msgid ""
+"Bestprice Analytics is a service offered by Bestprice that generates "
+"statistics about the visitors to a website."
+msgstr ""
+
+#: includes/class-wc-bestprice-analytics-info-banner.php:62
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/class-wc-bestprice-analytics.php:76
+msgid "Enter your Bestprice Analytic ID"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.bestprice.gr"
+msgstr ""
+
+#: includes/class-wc-bestprice-analytics.php:96
+msgid "Please allow Bestprice Analytics 24 hours to start displaying results."
+msgstr ""
+
+#: includes/class-wc-bestprice-analytics.php:99
+msgid ""
+"Please note, for transaction tracking to work properly, you will need to use "
+"a payment gateway that redirects the customer back to a WooCommerce order "
+"received/thank you page."
+msgstr ""
+
+#: includes/class-wc-bestprice-analytics.php:84
+msgid "Select the feed ID that should be sent to analytics."
+msgstr ""
+
+#: ext-bestprice-analytics-integration.php:75
+msgid "Settings"
+msgstr ""
+
+#: ext-bestprice-analytics-integration.php:113
+msgid "WooCommerce"
+msgstr ""
+
+#: ext-bestprice-analytics-integration.php:113
+#, php-format
+msgid ""
+"Bestprice Analytics depends on the last version of %s to work!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Bestprice Analytics Integration"
+msgstr ""

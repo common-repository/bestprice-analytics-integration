@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BestPrice 360 Analytics Integration\n"
+"POT-Creation-Date: 2024-04-23 13:50+0300\n"
+"PO-Revision-Date: 2024-04-23 13:50+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ext-bestprice-analytics-integration.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ext-bestprice-analytics-integration.php:82
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: ext-bestprice-analytics-integration.php:108
+#, php-format
+msgid "WooCommerce BestPrice 360º depends on the last version of %s to work!"
+msgstr ""
+"Το BestPrice 360º εξαρτάται από την τελευταία έκδοση του %s για να "
+"λειτουργήσει!"
+
+#: ext-bestprice-analytics-integration.php:108
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/class-wc-bestprice-analytics-info-banner.php:57
+msgid "Bestprice 360 &amp; WooCommerce"
+msgstr "BestPrice 360 &amp; WooCommerce"
+
+#: includes/class-wc-bestprice-analytics-info-banner.php:58
+#, php-format
+msgid ""
+"<a href=\"%s\">Connect WooCommerce to BestPrice 360º</a> to finish setting "
+"up this integration."
+msgstr ""
+"<a href=\"%s\">Συνδέστε το WooCommerce με το BestPrice 360º </a> για να "
+"ολοκληρώσετε τη ρύθμιση αυτής της επέκτασης."
+
+#: includes/class-wc-bestprice-analytics-info-banner.php:62
+msgid "Dismiss this notice."
+msgstr "Απορρίψτε την παρούσα ειδοποίηση."
+
+#: includes/class-wc-bestprice-analytics-info-banner.php:62
+msgid "(Dismiss)"
+msgstr "(Απόρριψη)"
+
+#. Plugin Name of the plugin/theme
+#: includes/class-wc-bestprice-analytics.php:32
+msgid "BestPrice 360º"
+msgstr "BestPrice 360º"
+
+#: includes/class-wc-bestprice-analytics.php:33
+msgid ""
+"BestPrice 360º is a service offered by BestPrice that generates statistics "
+"about the visitors to a website."
+msgstr ""
+"Το BestPrice 360º είναι μια υπηρεσία που προσφέρει το BestPrice η οποία "
+"δημιουργεί στατιστικά στοιχεία για τους επισκέπτες σε έναν ιστότοπο."
+
+#: includes/class-wc-bestprice-analytics.php:87
+msgid "BestPrice 360º ID"
+msgstr "BestPrice 360º ID"
+
+#: includes/class-wc-bestprice-analytics.php:89
+msgid "Enter your BestPrice 360º ID"
+msgstr "Εισάγετε το BestPrice 360º ID"
+
+#: includes/class-wc-bestprice-analytics.php:96
+msgid "Feed Product ID"
+msgstr "Feed Product ID"
+
+#: includes/class-wc-bestprice-analytics.php:99
+msgid "Select the feed ID that should be sent to analytics."
+msgstr "Επιλέξτε το feed ID που θα πρέπει να αποσταλεί στα analytics."
+
+#: includes/class-wc-bestprice-analytics.php:106
+msgid "BestPrice Product Badge"
+msgstr "BestPrice Product Badge"
+
+#: includes/class-wc-bestprice-analytics.php:109
+msgid "Enable BestPrice Product Badge"
+msgstr "Ενεργοποιήστε το BestPrice Product Badge"
+
+#: includes/class-wc-bestprice-analytics.php:112
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+#: includes/class-wc-bestprice-analytics.php:112
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+#: includes/class-wc-bestprice-analytics.php:116
+msgid "BestPrice Merchant ID"
+msgstr "BestPrice Merchant ID"
+
+#: includes/class-wc-bestprice-analytics.php:118
+msgid "Enter your BestPrice Merchant ID"
+msgstr "Εισάγετε το Bestprice Merchant ID"
+
+#: includes/class-wc-bestprice-analytics.php:132
+msgid "Please allow BestPrice 360º 24 hours to start displaying results."
+msgstr ""
+"Επιτρέψτε στο BestPrice 360º 24 ώρες να αρχίσουν να εμφανίζονται "
+"αποτελέσματα."
+
+#: includes/class-wc-bestprice-analytics.php:135
+msgid ""
+"Please note, for transaction tracking to work properly, you will need to use "
+"a payment gateway that redirects the customer back to a WooCommerce order "
+"received/thank you page."
+msgstr ""
+"Λάβετε υπόψη ότι για να λειτουργεί σωστά η παρακολούθηση συναλλαγών, θα "
+"χρειαστεί να χρησιμοποιήσετε μια πύλη πληρωμής που ανακατευθύνει τον πελάτη "
+"πίσω σε μια σελίδα παραγγελίας received/thank του WooCommerce."
+
+#. Description of the plugin/theme
+msgid ""
+"Allows BestPrice 360º tracking code to be inserted into WooCommerce store "
+"pages."
+msgstr ""
+"Επιτρέπει στον κώδικα παρακολούθησης του Bestprice 360º να εισαχθεί στις "
+"σελίδες καταστήματος του WooCommerce."
+
+#. Author of the plugin/theme
+msgid "BestPrice"
+msgstr "BestPrice"
+
+#. Author URI of the plugin/theme
+msgid "https://www.bestprice.gr"
+msgstr "https://www.bestprice.gr"
+
+#~ msgid "BestPrice 360 Analytics Integration"
+#~ msgstr "BestPrice 360 Analytics Integration"
